@@ -12,3 +12,5 @@
 *Create a new branch is quick & simple
 
 *Update This File 2015-01-21
+
+*Bug repare By Liujianxun
