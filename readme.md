@@ -14,3 +14,5 @@
 *Update This File 2015-01-21
 
 *Bug repare By Liujianxun
+
+##End the git study 2015-01-22
